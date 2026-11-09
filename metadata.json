@@ -1,0 +1,6 @@
+{
+  "name": "A Little Unframed | Handmade Art & Canvas Paintings by Anjali",
+  "description": "Discover little handmade canvas paintings and unique artwork by Anjali at A Little Unframed. Explore the collection and find something special for your space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
